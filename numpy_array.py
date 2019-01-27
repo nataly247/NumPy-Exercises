@@ -7,7 +7,7 @@
 ## Use np.array() to create a numpy array from baseball. Name this array np_baseball.
 ##
 ## Print out the type of np_baseball to check that you got it right.
-######
+#######
 
 # Create list baseball
 baseball = [180, 215, 210, 210, 188, 176, 209, 200]
